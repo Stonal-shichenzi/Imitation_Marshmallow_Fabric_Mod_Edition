@@ -1,0 +1,6 @@
+{
+    "item.imitation_marshmallow.marshmallow": "Marshmallow",
+    "item.imitation_marshmallow.cooked_marshmallow": "Cooked Marshmallow",
+    "gamerule.imitation_marshmallow.creative_mod_marshmallow_shrink": "Enable to consume Marshmallows",
+    "gamerule.imitation_marshmallow.creative_mod_marshmallow_shrink.description": "Controls whether the Marshmallows will be consumed in Creative Mode"
+}

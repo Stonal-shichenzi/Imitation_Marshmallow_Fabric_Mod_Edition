@@ -1,0 +1,26 @@
+{
+    "schemaVersion": 1,
+    "id": "imitation_marshmallow",
+    "version": "0.0.1",
+    "name": "The Imitation of Marshmallow",
+    "description": "Elements, chemical reactions, and more!",
+    "contact": {
+        "email": "shichenziscz@163.com",
+        "bilibili": "https://space.bilibili.com/3494375371835592"
+    },
+    "license": "MPL-2.0",
+    "icon": "assets/imitation_marshmallow/icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "cn.stonal.imitation_marshmallow.ImitationMarshmallow"
+        ]
+    },
+    "depends": {
+        "minecraft": ">=26.1",
+        "fabric-api": "*"
+    },
+    "authors": [
+        "Stonal"
+    ]
+}

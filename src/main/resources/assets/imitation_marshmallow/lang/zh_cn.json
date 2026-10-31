@@ -1,0 +1,6 @@
+{
+    "item.imitation_marshmallow.marshmallow": "棉花糖",
+    "item.imitation_marshmallow.cooked_marshmallow": "烤棉花糖",
+    "gamerule.imitation_marshmallow.creative_mod_marshmallow_shrink": "允许消耗棉花糖",
+    "gamerule.imitation_marshmallow.creative_mod_marshmallow_shrink.description": "控制是否在创造模式下消耗棉花糖"
+}

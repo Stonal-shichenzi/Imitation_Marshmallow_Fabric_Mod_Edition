@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "values": [
+        "frozen_ocean",
+        "frozen_river",
+        "snowy_plains",
+        "ice_spikes",
+        "grove",
+        "frozen_peaks",
+        "jagged_peaks",
+        "snowy_slopes",
+        "snowy_taiga",
+        "snowy_plains"
+    ]
+}

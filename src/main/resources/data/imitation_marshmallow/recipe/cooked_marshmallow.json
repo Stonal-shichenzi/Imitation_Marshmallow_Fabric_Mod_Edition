@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": "imitation_marshmallow:marshmallow",
+    "result": {
+        "id": "imitation_marshmallow:cooked_marshmallow"
+    }
+}
